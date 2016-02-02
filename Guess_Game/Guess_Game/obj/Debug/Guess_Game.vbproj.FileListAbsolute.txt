@@ -1,0 +1,10 @@
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\bin\Debug\Guess_Game.exe.config
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\bin\Debug\Guess_Game.exe
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\bin\Debug\Guess_Game.pdb
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\bin\Debug\Guess_Game.xml
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.frmGame.resources
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.Resources.resources
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.vbproj.GenerateResource.Cache
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.exe
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.xml
+c:\users\tonia\documents\visual studio 2013\Projects\Guess_Game\Guess_Game\obj\Debug\Guess_Game.pdb
